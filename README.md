@@ -25,7 +25,7 @@ cara install git di windows terdiri dari 10 langkah. Berikut penjelasanya:
     Untuk mengedit script melalui git anda memerlukan file editor. Anda bebas menggunakan file editor apapun untuk di kombinasikan dengan git. Pada tutorial ini, kami menggunakan vim  editor klik next apabila anda sudah menentukan file editor yang akan anda gunakan.'<p>'
 ![Gambar 6](screenshoot/sss6.jpeg)
 7.  Kalian bisa next saja sampai menemukan klik instal dan pilih enemble lalu tunggu sampai insalasi selesai.'<p>'
-![Gambar 12](screenshoot/ss12.jpeg)
+![Gambar 12](screenshoot/sss12.jpeg)
 
 Login Github 
     Langkah-langkah kedua dalam belajar menggunakan git adalah anda harus login kedalam website. Github dan git memiliki hubungan khusus, yaitu git yang berperan sebagan version control system dan github menjadi kosting atau sebagai menyimpan kode permograman. Selelah anda login akan muncul, tampilan dashboard dari github seperti gambar di bawah ini.'<p>'

@@ -38,3 +38,16 @@ Nama Repository     : digunakan untuk identitas reposotory yang di buat.
 Dekripsi Repository : berfungsi untuk dekripsi dari repositoy yang di buat.
 Jenis repositoy     : jenis repository dibagi menjadi public dan privite. ketika anda mengatu       repository menjadi public orang lain dapat melihat repository yang anda buat. sebaliknya jika anda mengatur sebagai private, repository tersebut hanya bisa di akses oleh anda.
 Setelah mengisi detail informasi di atas, Klik create repository.'<p>' 
+Buat Folder pada Windows
+    Selanjutnya, Anda perlu membuat folder pada local disk komputer Anda. Fungsinya adalah untuk menyimpan update file dari repository GitHub yang telah Anda buat.'<p>'
+![Gambar 15](screenshoot/sss81.JPG)
+Buka Folder Menggunakan Git Bash
+    Setelah berhasil membuat folder pada local disk komputer Anda,  buka folder tersebut dengan cara klik kanan lalu pilih Git Bash Here. Setelah itu, Command Prompt akan muncul seperti di bawah ini.'<p>'
+![Gambar 16](screenshoot/sss82.JPG)
+![Gambar 17](screenshoot/sss83.JPG)
+![Gambar 18](screenshoot/sss84.JPG)
+![Gambar 19](screenshoot/sss85.JPG)
+![Gambar 20](screenshoot/sss86.JPG)
+![Gambar 21](screenshoot/sss87.JPG)
+![Gambar 22](screenshoot/sss88.JPG)
+![Gambar 23](screenshoot/sss80.JPG)
